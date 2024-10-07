@@ -1,0 +1,17 @@
+div{
+  width: 350px;
+  height: 220px;
+  padding: 15px 10px 20px;
+  margin-bottom: 30px;
+  border: red dashed 2px;
+  background-color: green;
+
+}
+div:hover{
+     width: 220px;
+  height: 350px;
+  padding: 15px 10px 20px;
+  margin-bottom: 30px;
+  border: green dashed 2px;
+  background-color: red;
+}
